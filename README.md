@@ -2,7 +2,6 @@
 
 - Fulltime Linux user
 - Interested in microcontroller, single board computer and PCB design
-- Write a code for fun and to understand a new concept
 
 ## Languages
 
