@@ -1,7 +1,8 @@
 # About Me
 
 - Fulltime Linux user
-- Interested in microcontroller, single board computer and PCB design
+- Interested in embedded system, IoT and programming
+- Gaming such as Dota 2 and Albion Online
 
 ## Languages
 
