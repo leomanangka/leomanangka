@@ -2,7 +2,6 @@
 
 - Fulltime Linux user
 - Interested in embedded system, IoT and programming
-- Gaming such as Dota 2 and Albion Online
 
 ## Languages
 
