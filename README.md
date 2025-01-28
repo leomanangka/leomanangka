@@ -18,4 +18,4 @@
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmanangka&show_icons=true&theme=react)
 -->
 
-![Most Used Languages in GitHub](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lmanangka&layout=compact&theme=react)
+![Most Used Languages in GitHub](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leomanangka&layout=compact&theme=react)
