@@ -1,7 +1,6 @@
 # About Me
 
 - Fulltime Linux user
-- Interested in embedded system, IoT and programming
 
 ## Languages
 
